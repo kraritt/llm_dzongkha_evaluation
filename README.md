@@ -1,1 +1,1 @@
-# llm_dzongkha_evaluation
+This is the initial repository for the work DZEN LLM evaluation.
